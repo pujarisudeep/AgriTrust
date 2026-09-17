@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "AgriTrust",
+    "slug": "agritrust",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.agritrust.app",
+      "infoPlist": {
+        "NSCameraUsageDescription": "Allow AgriTrust to access the camera for QR code scanning."
+      }
+    },
+    "android": {
+      "package": "com.agritrust.app",
+      "permissions": ["android.permission.CAMERA"]
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": ["expo-camera"]
+  }
+}
