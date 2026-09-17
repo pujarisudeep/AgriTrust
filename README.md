@@ -2,7 +2,7 @@
 
 ### Empowering Agriculture Through Technology
 
-AgriTrust is a mobile application designed to provide a digital platform for the agricultural ecosystem. The project aims to make agricultural services and interactions more accessible, organized, and technology-driven.
+AgriTrust is a application designed to provide a digital platform for the agricultural ecosystem. The project aims to make agricultural services and interactions more accessible, organized, and technology-driven.
 
 Built using **React Native and Expo**, AgriTrust provides a cross-platform foundation that can run on Android, iOS, and other supported Expo environments.
 
@@ -12,7 +12,7 @@ Built using **React Native and Expo**, AgriTrust provides a cross-platform found
 
 Agriculture involves multiple stakeholders, including farmers, buyers, suppliers, and other participants in the agricultural ecosystem. AgriTrust is designed to bring these interactions into a unified digital platform.
 
-The project focuses on creating a simple and modern mobile experience that can be extended with agricultural services, marketplace functionality, and other digital tools.
+The project focuses on creating a simple and modern experience that can be extended with agricultural services, marketplace functionality, and other digital tools.
 
 ---
 
@@ -33,7 +33,6 @@ The project focuses on creating a simple and modern mobile experience that can b
 
 | Technology                    | Purpose                            |
 | ----------------------------- | ---------------------------------- |
-| **React Native**              | Mobile application development     |
 | **Expo**                      | Development and build framework    |
 | **TypeScript**                | Type-safe application development  |
 | **JavaScript**                | Application configuration          |
